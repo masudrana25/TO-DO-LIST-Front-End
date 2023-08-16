@@ -1,0 +1,9 @@
+#add_task{
+  width: 600px;
+  height: 400px;
+  padding-left: 50px;
+  
+}
+#add_task h3{
+  text-align: center;
+}
